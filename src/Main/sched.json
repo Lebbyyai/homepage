@@ -1,0 +1,15 @@
+[{
+        "teacher": "Mr.Castro",
+        "week": "Week 1",
+        "month": "January",
+        "time": "7:00am - 8:00am",
+        "day": "Monday",
+        "room": "Lab. 201"
+    }, {
+        "teacher": "Mr. Manero",
+        "week": "Week 2",
+        "month": "January",
+        "time": "11:00am - 12:00nn",
+        "day": "Wednesday",
+        "room": "Lab. 201"
+    }]
